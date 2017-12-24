@@ -1,4 +1,4 @@
-# code-lang-net
+# Code language clasiffier
 A small 2-layer LSTM, classifies code by language for living.
 
 Currently, it's capable of distinguishing between 13 languages, among which are Assembly, C/C++, C#, Clojure, CSS, HTML, Java, JavaScript, PHP, Python, R and Ruby. 
